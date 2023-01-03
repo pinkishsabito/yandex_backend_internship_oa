@@ -1,0 +1,3 @@
+/Users/arsenozhetov/Projects/yandex-backend-internship-oa/cmake-build-debug/CMakeFiles/yandex_backend_internship_oa.dir
+/Users/arsenozhetov/Projects/yandex-backend-internship-oa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arsenozhetov/Projects/yandex-backend-internship-oa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
